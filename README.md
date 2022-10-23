@@ -2,7 +2,6 @@
 
 
 
-See Demo Here - https://projectworlds.in/android-projects-with-source-code/android-attendance-system-app-source-code/
 
 
 
